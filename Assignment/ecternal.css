@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(198, 197, 197);
+}
+img{
+    border-radius: 50%;
+    width:50%;
+    height:600;
+    background-size: 100%;
+}
+h2{
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+}
